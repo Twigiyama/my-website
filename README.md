@@ -12,3 +12,5 @@ Now looking at getting a remote branch down locally
 This has now been updated locally.
 
 Further updates are needed to this file for teaching purposes.
+
+Now updating the local repository version.
